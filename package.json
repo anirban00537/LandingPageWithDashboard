@@ -1,6 +1,7 @@
 {
   "name": "kothon",
   "version": "1.0.0",
+  "homepage": "kothon.app",
   "description": "",
   "main": "app.js",
   "type": "module",
