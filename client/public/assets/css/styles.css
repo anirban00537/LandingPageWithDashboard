@@ -680,6 +680,7 @@ input[type="checkbox"] {
 .padLink {
   margin-right: 10px;
   transition: all 0.5s;
+  color: black !important;
 }
 .padLinknone {
   margin-right: 0px;
@@ -689,10 +690,8 @@ input[type="checkbox"] {
   margin-right: 40px;
 }
 .navbar-custom.active {
-  padding-top: 0.215rem;
-  padding-bottom: 0.215rem;
   padding-left: 40px !important;
-  background-color: #c61f2dd0 !important;
+  background-color: #fff !important;
   box-shadow: 0 0.0625rem 0.375rem 0 rgb(0 0 0 / 10%);
   font: 600 0.875rem/0.875rem "Open Sans", sans-serif;
   transition: all 0.5s;

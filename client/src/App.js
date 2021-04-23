@@ -46,15 +46,12 @@ function Home() {
       {/* <Zoom>
         <Stage />
       </Zoom> */}
-
       <Service />
-
       <Details />
       <Team />
       <Fade>
         <Portfolio />
       </Fade>
-
       <About />
       <Contact />
       <Footer />
